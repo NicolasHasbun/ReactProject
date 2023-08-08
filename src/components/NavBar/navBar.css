@@ -1,0 +1,23 @@
+
+.navbar {
+    background-color: rgb(67 , 67, 65);
+    width: 100%;
+  }
+
+  .navbar-brand {
+    font-size: 1.9rem !important;
+  }
+
+  .navbar-nav .nav-link {
+    color: rgb(67 , 67, 65);
+    padding: 1.2em;
+    font-size: 1.2rem;
+    margin: 18px;
+  }
+
+
+  .cart-widget {
+    padding: 1rem;
+    color: rgb(67, 67, 65);
+  }
+  
